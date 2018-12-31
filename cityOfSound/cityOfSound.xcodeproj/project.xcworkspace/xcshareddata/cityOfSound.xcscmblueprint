@@ -1,0 +1,65 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D39D138972F34B6BDCF5BF81C679EFCB152F5994",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D39D138972F34B6BDCF5BF81C679EFCB152F5994" : 9223372036854775807,
+    "65F0E57F9FBE704C78F412BB3A758052CBC46923" : 9223372036854775807,
+    "8F70AD01C9724A075140A5DD743B53F33EBA1513" : 9223372036854775807,
+    "B2E2C092FF66E30FABA79EE9AEA8F79A94800819" : 9223372036854775807,
+    "2EF43D1D30359A63A415F3CC3B5BE8B3229520A5" : 9223372036854775807,
+    "40E8B1CF4AFA4A0AB4A5AC1B620B28EF9E915A13" : 9223372036854775807,
+    "9233F0F4A2BE011BD468E5177A5AD6623263B23D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5E22DA59-20B5-46B4-B3E5-6E3F1672C8C1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D39D138972F34B6BDCF5BF81C679EFCB152F5994" : "final-project-tiffanybuu\/",
+    "65F0E57F9FBE704C78F412BB3A758052CBC46923" : "..\/..\/addons\/ofxAudioDecoder",
+    "8F70AD01C9724A075140A5DD743B53F33EBA1513" : "..\/..\/addons\/ofxAudioAnalyzer",
+    "B2E2C092FF66E30FABA79EE9AEA8F79A94800819" : "..\/..\/addons\/ofxFEngine3DCore",
+    "2EF43D1D30359A63A415F3CC3B5BE8B3229520A5" : "..\/..\/addons\/ofxFFT",
+    "40E8B1CF4AFA4A0AB4A5AC1B620B28EF9E915A13" : "..\/..\/addons\/ofxSoundObjects",
+    "9233F0F4A2BE011BD468E5177A5AD6623263B23D" : "..\/..\/addons\/ofxDatGui"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "cityOfSound",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "cityOfSound\/cityOfSound.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/julapy\/ofxFFT.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2EF43D1D30359A63A415F3CC3B5BE8B3229520A5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/roymacdonald\/ofxSoundObjects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "40E8B1CF4AFA4A0AB4A5AC1B620B28EF9E915A13"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/leozimmerman\/ofxAudioDecoder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65F0E57F9FBE704C78F412BB3A758052CBC46923"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/leozimmerman\/ofxAudioAnalyzer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8F70AD01C9724A075140A5DD743B53F33EBA1513"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/braitsch\/ofxDatGui.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9233F0F4A2BE011BD468E5177A5AD6623263B23D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ubarevicius\/ofxFEngine3DCore.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B2E2C092FF66E30FABA79EE9AEA8F79A94800819"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/uiuc-sp18-cs126\/final-project-tiffanybuu.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D39D138972F34B6BDCF5BF81C679EFCB152F5994"
+    }
+  ]
+}
